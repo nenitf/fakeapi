@@ -1,0 +1,56 @@
+{
+    "contatos": [
+        {
+            "nome": "Email",
+            "url": "mailto:ola@neni.dev"
+        },
+        {
+            "nome": "Linkedin",
+            "url": "http://linkedin.com/in/nenitf"
+        },
+        {
+            "nome": "Telegram",
+            "url": "https://t.me/nenitf"
+        }
+    ],
+    "codigos": {
+        "projetos": [
+            {
+                "nome": "Github",
+                "url": "http://github.com/nenitf"
+            },
+            {
+                "nome": "Gitlab",
+                "url": "http://gitlab.com/nenitf"
+            },
+            {
+                "nome": "CodeSandBox",
+                "url": "https://codesandbox.io/u/nenitf"
+            },
+            {
+                "nome": "Itch",
+                "url": "https://nenitf.itch.io"
+            }
+        ],
+        "algoritmos": [
+            {
+                "nome": "HackerRank",
+                "url": "https://www.hackerrank.com/nenitf"
+            },
+            {
+                "nome": "CodeSignal",
+                "url": "https://app.codesignal.com/profile/nenitf"
+            }
+        ],
+        "snippets": [
+            {
+                "nome": "Replit",
+                "url": "https://repl.it/@felipe_dacs"
+            },
+            {
+                "nome": "Codepen",
+                "url": "https://codepen.io/nenitf"
+            }
+        ]
+    }
+    }
