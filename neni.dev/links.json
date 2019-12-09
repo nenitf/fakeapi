@@ -30,6 +30,10 @@
             {
                 "nome": "Itch",
                 "url": "https://nenitf.itch.io"
+            },
+            {
+                "nome": "Game Jolt",
+                "url": "https://gamejolt.com/@nenitf"
             }
         ],
         "algoritmos": [
@@ -45,7 +49,7 @@
         "snippets": [
             {
                 "nome": "Replit",
-                "url": "https://repl.it/@felipe_dacs"
+                "url": "https://repl.it/@nenitf"
             },
             {
                 "nome": "Codepen",
