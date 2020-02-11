@@ -24,16 +24,7 @@
                 "url": "http://gitlab.com/nenitf"
             }
         ],
-        "algoritmos": [
-            {
-                "nome": "HackerRank",
-                "url": "https://www.hackerrank.com/nenitf"
-            },
-            {
-                "nome": "CodeSignal",
-                "url": "https://app.codesignal.com/profile/nenitf"
-            }
-        ],
+        "algoritmos": [],
         "snippets": [
             {
                 "nome": "Replit",
