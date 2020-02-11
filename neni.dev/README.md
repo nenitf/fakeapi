@@ -1,0 +1,20 @@
+# Links ativos/inativos
+- contatos
+  - [Email](mailto:ola@neni.dev)
+  - [Linkedin](http://linkedin.com/in/nenitf)
+  - [Telegram](https://t.me/nenitf)
+- codigos
+  - projetos
+    - [Github](http://github.com/nenitf)
+    - [Gitlab](http://gitlab.com/nenitf)
+    - [CodeSandBox](https://codesandbox.io/u/nenitf)
+    - [Itch](https://nenitf.itch.io)
+    - [Game Jolt](https://gamejolt.com/@nenitf)
+  - algoritmos
+    - [HackerRank](https://www.hackerrank.com/nenitf)
+    - [CodeSignal](https://app.codesignal.com/profile/nenitf)
+  - snippets
+    - [Replit](https://repl.it/@nenitf)
+    - [Codepen](https://codepen.io/nenitf)
+- design
+  - [Piskelapp](https://www.piskelapp.com/user/5625764215521280)
