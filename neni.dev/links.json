@@ -43,12 +43,12 @@
                 "nome": "Codepen",
                 "url": "https://codepen.io/nenitf"
             }
-        ],
-        "design": [
-            {
-                "nome": "Piskelapp",
-                "url": "https://www.piskelapp.com/user/5625764215521280"
-            }
-        ]
-    }
+        ]        
+    },
+    "design": [
+        {
+            "nome": "Piskelapp",
+            "url": "https://www.piskelapp.com/user/5625764215521280"
+        }
+    ]
 }
